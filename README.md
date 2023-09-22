@@ -5,3 +5,5 @@ G-code Modifier: Python Script for Visualizing FlatCAM GRBL Laser GCode in Candl
 its help to preview flatcam generated gcode by grbl_laser preprosser . 
 ![flatcam sreenshot](https://github.com/FabLabBaramati/gcodeMOD_flatcam_grbl_candle_preview/assets/108176040/979405bf-8bd8-4af9-a3b7-0c5f1f275ec7)
 example screen shot
+Gcode modification example 
+![mod](https://github.com/FabLabBaramati/gcodeMOD_flatcam_grbl_candle_preview/assets/108176040/a8a3c8a4-ea85-4e7e-9ae8-9caca3768827)
